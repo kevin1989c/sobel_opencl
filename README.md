@@ -1,1 +1,1 @@
-java_concurrent
+OPENCL SOBEL EDGE DETECTION
